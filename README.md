@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sebastián Arango  
 
 ### 🌍 About Me  
-- 🎓 Environmental Engineer from Universidad de Medellín with Specialization in Geographic Information Systems   
+- 🎓 Data and GIS Analyst   
 - 🌱 Passionate about **GIS, data analysis, and sustainable solutions**  
 - 💻 Experience with **SQL, Python, R, ArcGIS, QGIS, Google Earth Engine**  
 - 🌐 Languages: Spanish (native), German (advanced), English (intermediate)  
