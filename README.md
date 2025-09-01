@@ -20,7 +20,10 @@
 
 ### 📊 Featured Projects  
 - 📈 **[Predictive Inventory](https://github.com/sebasarangot96/inventario_predictivo)**  – Project focused on inventory analysis and optimization for a fictitious liquor distribution company.
-Covered data cleaning and standardization, automated ingestion into Google BigQuery, creation of interactive Power BI dashboards, and a demand forecasting module with Machine Learning deployed on Streamlit.  
+Covered data cleaning and standardization, automated ingestion into Google BigQuery, creation of interactive Power BI dashboards, and a demand forecasting module with Machine Learning deployed on Streamlit.
+
+- 📈 **[Developing Web-Applications with JS and Leaflet](https://github.com/sebasarangot96/JSandLeafletModule_GIS)** -   Interactive web mapping application using **JavaScript** and **Leaflet.js** to visualize and analyze geospatial data in the browser. 
+
 ### 📫 How to reach me  
 - [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-arango-trujillo-0212b622b/)  
 - [Email](mailto:sebastian5757@hotmail.com)  
