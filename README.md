@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Sebastián Arango  
 
-<!--
-**sebasarangot96/sebasarangot96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 About Me  
+- 🎓 Environmental Engineer from Universidad de Medellín with Specialization in Geographic Information Systems   
+- 🌱 Passionate about **GIS, data analysis, and sustainable solutions**  
+- 💻 Experience with **SQL, Python, R, ArcGIS, QGIS, Google Earth Engine**  
+- 🌐 Languages: Spanish (native), German (advanced), English (intermediate)  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+- **Programming & Data**: Python, R, SQL  
+- **GIS & Remote Sensing**: ArcGIS, QGIS, Google Earth Engine  
+- **Data Visualization**: Power BI, Tableau, matplotlib, ggplot2  
+- **Other Tools**: Git, Docker, Excel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured Projects  
+- 🌎 **3D Land Cover Maps in R** – 3D visualization of Colombian land cover using `rayshader`  
+- 🚴 **Route Animation with Pydeck** – 3D animated routes with latitude/longitude data  
+- 🍔 **Fast Food Database Analysis** – SQL + BI analysis project for sales and operations  
+
+### 📫 How to reach me  
+- [LinkedIn](https://www.linkedin.com/)  
+- [Email](mailto:youremail@example.com)  
+
+---
+
+⭐️ From [Sebastián Arango](https://github.com/tu-usuario)
