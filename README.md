@@ -3,7 +3,7 @@
 ### 🌍 About Me  
 - 🎓 Data and GIS Analyst   
 - 🌱 Passionate about **GIS, data analysis, and sustainable solutions**  
-- 💻 Experience with **SQL, Python, R, ArcGIS, QGIS, Google Earth Engine**  
+- 💻 Experience with **SQL, Python, Power BI, R, ArcGIS, QGIS, Google Earth Engine**  
 - 🌐 Languages: Spanish (native), German (advanced), English (intermediate)  
 
 ## 🚀 Tech Stack  
