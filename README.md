@@ -13,14 +13,11 @@
 - **Other Tools**: Git, Docker, Excel  
 
 ### 📊 Featured Projects  
-- 🌎 **3D Land Cover Maps in R** – 3D visualization of Colombian land cover using `rayshader`  
-- 🚴 **Route Animation with Pydeck** – 3D animated routes with latitude/longitude data  
-- 🍔 **Fast Food Database Analysis** – SQL + BI analysis project for sales and operations  
-
+- 📈 **Predictive Investment Model** – Machine learning model for financial market trend forecasting using Python (Pandas, Scikit-learn, Streamlit).  
 ### 📫 How to reach me  
-- [LinkedIn](https://www.linkedin.com/)  
-- [Email](mailto:youremail@example.com)  
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/sebasti%C3%A1n-arango-trujillo-0212b622b/)/)  
+- [Email](mailto:sebastian5757@hotmail.com)  
 
 ---
 
-⭐️ From [Sebastián Arango](https://github.com/tu-usuario)
+⭐️ From [Sebastián Arango](https://github.com/sebasarangot96)
