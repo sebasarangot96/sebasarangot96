@@ -13,7 +13,7 @@
 - **Other Tools**: Git, Docker, Excel  
 
 ### 📊 Featured Projects  
-- 📈 **Predictive Investment Model** – Machine learning model for financial market trend forecasting using Python (Pandas, Scikit-learn, Streamlit).  
+- 📈 **[Predictive Inventory](https://github.com/sebasarangot96/inventario_predictivo)**  – Machine learning model for financial market trend forecasting using Python (Pandas, Scikit-learn, Streamlit).  
 ### 📫 How to reach me  
 - [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/sebasti%C3%A1n-arango-trujillo-0212b622b/)/)  
 - [Email](mailto:sebastian5757@hotmail.com)  
