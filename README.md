@@ -25,7 +25,7 @@ Covered data cleaning and standardization, automated ingestion into Google BigQu
 
  #### Geographic Information Systems (GIS) Projects:
  - 🗺️ **[Developing Web-Applications with JS and Leaflet](https://github.com/sebasarangot96/JSandLeafletModule_GIS)** -   Interactive web mapping application using **JavaScript** and **Leaflet.js** to visualize and analyze geospatial data in the browser.
- - 🌏🌡️ **[Bivariate Climate–Elevation 3D Map of Colombia](https://github.com/sebasarangot96/3D_bivariate_map_of_Colombia)** - Map of Colombia showing Precipitation and Temperature with elevation relief using R and CHELSA data. 
+ - 🌏 **[Bivariate Climate–Elevation 3D Map of Colombia](https://github.com/sebasarangot96/3D_bivariate_map_of_Colombia)🌡️** - Map of Colombia showing Precipitation and Temperature with elevation relief using R and CHELSA data. 
 
 ### 📫 How to reach me  
 - [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-arango-trujillo-0212b622b/)  
