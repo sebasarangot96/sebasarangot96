@@ -19,11 +19,11 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 
 ### 📊 Featured Projects  
- ## Data Analytics Projects:
+ #### Data Analytics Projects:
  - 📈 **[Predictive Inventory](https://github.com/sebasarangot96/inventario_predictivo)**  – Project focused on inventory analysis and optimization for a fictitious liquor distribution company.
 Covered data cleaning and standardization, automated ingestion into Google BigQuery, creation of interactive Power BI dashboards, and a demand forecasting module with Machine Learning deployed on Streamlit.
 
- ## Geographic Information Systems (GIS) Projects:
+ #### Geographic Information Systems (GIS) Projects:
  - 🗺️ **[Developing Web-Applications with JS and Leaflet](https://github.com/sebasarangot96/JSandLeafletModule_GIS)** -   Interactive web mapping application using **JavaScript** and **Leaflet.js** to visualize and analyze geospatial data in the browser.
  - 
 
