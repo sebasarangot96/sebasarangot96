@@ -22,6 +22,8 @@
  #### Data Analytics Projects:
  - 📈 **[Predictive Inventory](https://github.com/sebasarangot96/inventario_predictivo)**  – Project focused on inventory analysis and optimization for a fictitious liquor distribution company.
 Covered data cleaning and standardization, automated ingestion into Google BigQuery, creation of interactive Power BI dashboards, and a demand forecasting module with Machine Learning deployed on Streamlit.
+ - 💉 **[Covid19 in Latinamerica](https://github.com/sebasarangot96/covid19_latinoamerica)**  –  Analysis of COVID-19 pandemic data in selected Latin American countries using Python and Power BI.
+The project focuses on data cleaning, transformation, statistical exploration, visualization, and the creation of interactive dashboards.
 
  #### Geographic Information Systems (GIS) Projects:
  - 🗺️ **[Developing Web-Applications with JS and Leaflet](https://github.com/sebasarangot96/JSandLeafletModule_GIS)** -   Interactive web mapping application using **JavaScript** and **Leaflet.js** to visualize and analyze geospatial data in the browser.
